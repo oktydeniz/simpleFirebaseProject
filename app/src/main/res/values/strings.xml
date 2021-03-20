@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instagram Klon</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="sing_in">Sing In</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="password">Password</string>
+    <string name="what_you_think">What you think?</string>
+    <string name="send">Send</string>
+</resources>
